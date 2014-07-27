@@ -1,6 +1,6 @@
 def main():
 	print("########################")
-	print("#######CALCUTATOR#######")
+	print("####### CALCUTATOR #######")
 	print("########################")
 	print("Enter an opration(+,-,/,*)")
 	operation = raw_input()
