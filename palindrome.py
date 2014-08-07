@@ -6,4 +6,5 @@ def isPalindrome(s):
 		j=j-1
 	return j<=i
 
-print(isPalindrome('racecar'))
+s1=raw_input("Enter a string ")
+print(s1 + " is a palindrome ? " + str(isPalindrome(s1)))
